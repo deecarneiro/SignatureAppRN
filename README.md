@@ -78,7 +78,4 @@ import Signature from 'react-native-signature-canvas';
 />
 ```
 
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
-
 
