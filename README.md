@@ -27,18 +27,17 @@ $ cd SignatureAppRN && npm install
 ```
 
 3. Emulating...
-  
- 3.1 Android
+
+  3.1 Android
  ```bash
  $ npx react-native run-android
- ```
- 
- 3.2 IOS
+ ````
+  3.2 IOS
     3.2.1. Enter the ios folder and run:
      ```bash
      $ pod install
      ```
-   3.2.2 Run on the IOS emulator/Device
+    3.2.2 Run on the IOS emulator/Device
     ```bash
      $ npx react-native run-ios
      ```
