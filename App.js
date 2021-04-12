@@ -1,5 +1,8 @@
 import React, { Component } from "react";
 import {View, Text} from 'react-native'
+import { SignatureScreen } from "./ui/Signature";
+import Sign from "./ui/SignatureCustomButton";
+import SignInScroll from "./ui/SignatureScroll";
 
 
 class App extends Component {
@@ -15,8 +18,12 @@ class App extends Component {
 
   render() {
     return (
-      <View>
-      </View>
+      <Sign
+      onOK={()=>{console.log("SAVED")}}
+      onClear={() =>{console.log("SAVED")}}/>
+        // <SignatureScreen/>
+        // <SignInScroll
+        // scrollEnabled/>
    );
   }
 }

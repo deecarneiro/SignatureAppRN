@@ -12,6 +12,8 @@ target 'SignatureAppRN' do
     :hermes_enabled => false
   )
 
+  pod 'react-native-webview', :path => '../node_modules/react-native-webview'
+
   target 'SignatureAppRNTests' do
     inherit! :complete
     # Pods for testing
