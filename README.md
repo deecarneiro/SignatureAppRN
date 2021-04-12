@@ -43,6 +43,7 @@ $ cd SignatureAppRN && npm install
      ```
  
 ![IOS RUNNING](https://user-images.githubusercontent.com/44411176/114476251-451d8f00-9bd0-11eb-8153-78759c6ba01e.png)  
+![IOS RUNNING2](https://user-images.githubusercontent.com/44411176/114476665-0b00bd00-9bd1-11eb-8073-78f6741db929.png)
 
 ## Explanations
 
